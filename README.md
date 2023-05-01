@@ -1,4 +1,3 @@
-# configuring-active-directory
 <p align="center">
 <img src="https://imgur.com/ocgeUoz.png" alt="osTicket logo"/>
 </p>
